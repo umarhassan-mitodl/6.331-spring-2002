@@ -1,0 +1,49 @@
+{
+  "term": "Spring",
+  "year": "2002",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Electronics"
+    ],
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Electric Power"
+    ]
+  ],
+  "legacy_uid": "3d743cd0-e38d-70fb-32b1-3c7c67155681",
+  "instructors": {
+    "content": [
+      "2540e332-fb7c-3c41-dc22-b19ac86c5c44",
+      "c67d7e35-e938-0d98-f391-7c48b893af2c"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "4303e9e9-6fe4-2ab5-6a3e-640d38a44dcc",
+    "website": "6-331-advanced-circuit-techniques-spring-2002"
+  },
+  "course_title": "Advanced Circuit Techniques",
+  "hide_download": true,
+  "course_description": "Following a brief classroom discussion of relevant principles, each student in this course completes the paper design of several advanced circuits such as multiplexers, sample-and-holds, gain-controlled amplifiers, analog multipliers, digital-to-analog or analog-to-digital converters, and power amplifiers. One of each student's designs is presented to the class, and one may be built and evaluated. Associated laboratory assignments emphasize the use of modern analog building blocks. This course is worth 12 Engineering Design Points.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.331",
+  "course_image_thumbnail": {
+    "content": "20379fa7-b030-9eea-55af-1d656309bf89",
+    "website": "6-331-advanced-circuit-techniques-spring-2002"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [],
+  "site_uid": "50c42803-b553-4f0f-8be5-04ece027d195",
+  "site_short_id": "6.331-spring-2002",
+  "site_url_path": "courses/6-331-advanced-circuit-techniques-spring-2002",
+  "title": "Course Metadata"
+}
