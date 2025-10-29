@@ -29,7 +29,6 @@
     "website": "6-331-advanced-circuit-techniques-spring-2002"
   },
   "course_title": "Advanced Circuit Techniques",
-  "hide_download": true,
   "course_description": "Following a brief classroom discussion of relevant principles, each student in this course completes the paper design of several advanced circuits such as multiplexers, sample-and-holds, gain-controlled amplifiers, analog multipliers, digital-to-analog or analog-to-digital converters, and power amplifiers. One of each student's designs is presented to the class, and one may be built and evaluated. Associated laboratory assignments emphasize the use of modern analog building blocks. This course is worth 12 Engineering Design Points.\n",
   "department_numbers": [
     "6"
@@ -40,7 +39,6 @@
     "content": "20379fa7-b030-9eea-55af-1d656309bf89",
     "website": "6-331-advanced-circuit-techniques-spring-2002"
   },
-  "hide_download_original": true,
   "learning_resource_types": [],
   "site_uid": "50c42803-b553-4f0f-8be5-04ece027d195",
   "site_short_id": "6.331-spring-2002",

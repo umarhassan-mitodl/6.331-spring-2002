@@ -4,8 +4,6 @@ description: ''
 file: /courses/6-331-advanced-circuit-techniques-spring-2002/7b1cbcaefca0be7162c27638eb43ff08_8038datasheet.pdf
 file_size: 254021
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Tools
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

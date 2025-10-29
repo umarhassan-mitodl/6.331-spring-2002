@@ -2,8 +2,6 @@
 content_type: page
 description: The lab and design problem assignments in this section both involve substantial
   laboratory work for the students.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Laboratory Assignments
 ocw_type: CourseSection

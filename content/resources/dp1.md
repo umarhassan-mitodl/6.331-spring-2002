@@ -4,8 +4,6 @@ description: 'Design Problem 1: Sample and Hold'
 file: /courses/6-331-advanced-circuit-techniques-spring-2002/1f74bfacb170072445cfb2d4aa66470d_dp1.pdf
 file_size: 21401
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

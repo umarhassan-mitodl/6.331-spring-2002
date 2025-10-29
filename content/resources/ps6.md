@@ -4,8 +4,6 @@ description: Problem Set 6
 file: /courses/6-331-advanced-circuit-techniques-spring-2002/4f24d1457c990591c1ca0331b845357c_ps6.pdf
 file_size: 45342
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
