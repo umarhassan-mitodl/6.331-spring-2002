@@ -13,9 +13,9 @@ uid: b3b7990c-2f26-270f-7e66-ff56754cd1c5
 
 \[FCSACD\] = Lundberg, Kent. *Feedback Control Systems for Analog Circuit Design.*
 
-\[AN47\] = Williams, Jim. [*Linear Technology Application Note 47 (PDF)*](https://www.analog.com/media/en/technical-documentation/application-notes/an47fa.pdf)
+\[AN47\] = Williams, Jim. {{% resource_link "60e55a03-008c-4737-a4ae-9662914097f0" "*Linear Technology Application Note 47 (PDF)*" %}}
 
-\[ABC\] = Tektronix, [*ABCs of Probes*](http://web.mit.edu/6.101/www/reference/ABCprobes_s.pdf)
+\[ABC\] = Tektronix, {{% resource_link "63098b08-81cd-411f-92ef-690fccef3395" "*ABCs of Probes*" %}}
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 Week #
